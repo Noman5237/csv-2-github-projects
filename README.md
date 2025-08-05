@@ -1,8 +1,3 @@
-Here’s a **README.md** template tailored for your GitHub project automation using the GitHub CLI and a CSV import:
-
----
-
-````markdown
 # 🛠️ GitHub Project Bulk Import via CLI + CSV
 
 This script automates the creation of GitHub Project items from a structured CSV file. It uses the [GitHub CLI](https://cli.github.com/) (`gh`) to create and populate project items dynamically based on fields like `Feature`, `Role`, and `Estimate`.
